@@ -1,4 +1,6 @@
-
+# iScanner 
+A simple solution to Generate and Scan QR Code <br> 
+---
 ![Badge](https://img.shields.io/badge/License-MIT-yellow)
 ![Badge](https://img.shields.io/badge/Xcode-11.5-green)
 ![badge](https://img.shields.io/badge/Swift-5.0-red)
