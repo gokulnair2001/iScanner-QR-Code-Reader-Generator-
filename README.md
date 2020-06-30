@@ -17,7 +17,7 @@ iScanner is an app which is used to generate as well as scan QR code. The app co
 
 # Snapshots of App 📸
 
-![IMG](https://user-images.githubusercontent.com/56252259/86143640-50f10680-bb12-11ea-96ad-e54b33db66cb.png "QR Scanner View")
+![IMG_3932](https://user-images.githubusercontent.com/56252259/86163009-4c861700-bb2d-11ea-9eb9-c1ad329bc3fd.PNG)
 ![IMG](https://user-images.githubusercontent.com/56252259/86143878-9ad9ec80-bb12-11ea-8eed-7fe728f8dd18.png "Scanner View")
 ![IMG](https://user-images.githubusercontent.com/56252259/86143796-84cc2c00-bb12-11ea-94e0-c091e7d31944.png) 
 ![IMG](https://user-images.githubusercontent.com/56252259/86143840-91508480-bb12-11ea-8e66-056ef68b9684.png)
