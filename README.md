@@ -19,11 +19,7 @@ iScanner is an app which is used to generate as well as scan QR code. The app co
 
 # Snapshots of App 📸
 
-<img width="250" alt="Screenshot 2020-07-01 at 12 11 16 PM" src="https://user-images.githubusercontent.com/56252259/86283929-8de6f700-bbff-11ea-930c-c2bd9afbc5d0.png">
-<img width="250" alt="Screenshot 2020-07-01 at 12 11 16 PM"src="https://user-images.githubusercontent.com/56252259/86284070-c8509400-bbff-11ea-96ec-53a77426e57f.PNG">
-<img width="250" alt="Screenshot 2020-07-01 at 12 11 16 PM" src="https://user-images.githubusercontent.com/56252259/86143878-9ad9ec80-bb12-11ea-8eed-7fe728f8dd18.png">
-<img width="250" alt="Screenshot 2020-07-01 at 12 11 16 PM" src="https://user-images.githubusercontent.com/56252259/86143796-84cc2c00-bb12-11ea-94e0-c091e7d31944.png">
-<img width="250" alt="Screenshot 2020-07-01 at 12 11 16 PM" src="https://user-images.githubusercontent.com/56252259/86143840-91508480-bb12-11ea-8e66-056ef68b9684.png">
+<img width="250" alt="Screenshot 2020-07-01 at 12 11 16 PM" src="https://user-images.githubusercontent.com/56252259/86283929-8de6f700-bbff-11ea-930c-c2bd9afbc5d0.png"><img width="250" alt="Screenshot 2020-07-01 at 12 11 16 PM"src="https://user-images.githubusercontent.com/56252259/86284070-c8509400-bbff-11ea-96ec-53a77426e57f.PNG"><img width="250" alt="Screenshot 2020-07-01 at 12 11 16 PM" src="https://user-images.githubusercontent.com/56252259/86143878-9ad9ec80-bb12-11ea-8eed-7fe728f8dd18.png"><img width="250" alt="Screenshot 2020-07-01 at 12 11 16 PM" src="https://user-images.githubusercontent.com/56252259/86143796-84cc2c00-bb12-11ea-94e0-c091e7d31944.png"><img width="250" alt="Screenshot 2020-07-01 at 12 11 16 PM" src="https://user-images.githubusercontent.com/56252259/86143840-91508480-bb12-11ea-8e66-056ef68b9684.png">
 
 
 # License ⚖️  
