@@ -6,7 +6,7 @@ A simple solution to Generate and Scan QR Code <br>
 ![badge](https://img.shields.io/badge/Swift-5.0-red)
 ![badge](https://img.shields.io/badge/iOS-13-blue)
 ![badge](https://img.shields.io/badge/Platfrom-iOS-orange)
-![Badge](https://img.shields.io/badge/QR-Scanner-yellowgreen)
+![Badge](https://img.shields.io/badge/QR-Scanner-alert)
 ![Badge](https://img.shields.io/badge/QR-Generator-black)
 
 # Introduction ⚒  
