@@ -10,7 +10,7 @@ A simple solution to Generate and Scan QR Code <br>
 ![Badge](https://img.shields.io/badge/QR-Generator-black)
 
 # Introduction ⚒  
-iScanner is an app which is used to generate as well as scan QR code. The app consists of quiet sober UI/UX and it helps the user to generate QR code very easily . You also get an option to save he QR Code in the gallery,hence you dont need to generate the QR code again and again.
+iScanner is an app which is used to generate and scan QR code. The app consists of quiet sober UI/UX and it helps the user to generate QR code very easily . You also get an option to save he QR Code in the gallery,hence you dont need to generate the QR code again and again.
 
 # Libraries Used In Project 📒 
 
